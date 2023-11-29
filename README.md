@@ -4,8 +4,6 @@ In this project, I will assume the role of a junior data analyst at FlashFash, d
 
 ## Observations 
 
-[A short write-up of the workflow this project followed, your observations on the visualizations, and interpretations of analyses. Include challenges faced and possible next actions]
-
 In our initial step, I explored our data using various methods such as printing out summary statistics, conducting univariate analysis using histograms and bar charts. I also performed bivariate analysis with box plots and kde plots. Throughout this exploration, I discovered many interesting facts about our data. For example, I found that the Winter season sees the most purchases, and our shoppers are generally quite young, falling between the ages of 28-32.
 
 In the second step, I began cleaning and transforming our data. I identified and addressed null values, dropped columns with too many missing values, and created two groups within our review rating column to distinguish between missing and present reviews. This segmentation sets the stage for a more refined analysis in our third step.
